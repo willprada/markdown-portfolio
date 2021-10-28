@@ -1,13 +1,14 @@
 Things I like besides software development, programming and learning:
 
-1. Movies and series
+1. Movies, series and tv shows :movie_camera::tv:
    * SciFi
    * Thriller
    * Action
    * Animation
+   * Anime (Japanimation)
    * Horror
    * Fantasy
-2. Videogames
+2. Videogames :video_game::computer:
    * Platform
    * Survival horror
    * Open world
@@ -19,7 +20,7 @@ Things I like besides software development, programming and learning:
    * MMORPG
    * RTS
    * Metroidvania
-3. Books
+3. Books :closed_book::city_sunset:
    * Mythology
    * SciFi
    * Mystery and detective
