@@ -1,8 +1,5 @@
 title: Welcome to my portfolio!
-<<<<<<< HEAD
 theme: jekyll-theme-primer
 plugins:
   - jemoji
-=======
-theme: jekyll-theme-cayman
->>>>>>> 4bfaea1af509f6d96ff2d1d86e61948d3f16be1c
+
